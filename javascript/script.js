@@ -65,7 +65,7 @@ document.write("<h3>Films</h3>")
 
 for(let i=0; i<cinema.film1.length; i++){
     document.write(cinema.film1[i].filmname1 + "<br>")
-}
+};
 for(let i=0; i<cinema.film2.length; i++){
     document.write(cinema.film2[i].filmname2 + "<br>")
 }
